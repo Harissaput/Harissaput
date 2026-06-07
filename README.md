@@ -1,10 +1,11 @@
-<h1 align="left">Hey 👋 everyone!</h1>
+<h1 align="center">Hey 👋 everyone!</h1>
 
 ###
 <div align="center">
-  <img height="" src="https://4kwallpapers.com/images/walls/thumbs_2t/22577.png"  />
+  <img height="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0c2RkNW9teWMxdGMzYWNlYWp3c2Vob211cTZiZG12dWM1cHY4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJ7mdUoH6V2HcXs78v/giphy.gif"  />
 </div>
 
+###
 ###
 
 <p align="left">My name is haris and I'm a computer science student</p>
