@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://4kwallpapers.com/images/walls/thumbs_2t/22577.png"  />
+  <img height="" src="https://4kwallpapers.com/images/walls/thumbs_2t/22577.png"  />
 </div>
 
 ###
