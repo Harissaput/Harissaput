@@ -1,6 +1,11 @@
 <h1 align="left">Hey 👋 everyone!</h1>
 
 ###
+<div align="center">
+  <img height="200" src="https://4kwallpapers.com/images/walls/thumbs_2t/22577.png"  />
+</div>
+
+###
 
 <p align="left">My name is haris and I'm a computer science student</p>
 
